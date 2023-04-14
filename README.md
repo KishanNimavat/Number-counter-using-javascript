@@ -1,0 +1,1 @@
+# Number-counter-using-javascript![screencapture-file-C-Users-KISHAN-Desktop-pp-index-html-2023-04-14-21_49_13](https://user-images.githubusercontent.com/121854064/232100963-43701a38-527e-4334-b545-ed2b926df119.png)
